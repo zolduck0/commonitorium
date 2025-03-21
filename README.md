@@ -1,4 +1,4 @@
-## commonitorium is a c++ and shell script app that reminds you to work every hour by asking you in the most annoying way possible 🤖🤖🤖
+## commonitorium is a c++ and shell script app that reminds you to work every hour by asking you in the most annoying way possible 🤖
 
 ![image](https://github.com/user-attachments/assets/3854e582-8058-499a-95e4-9642221c11c2)
 
