@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/3854e582-8058-499a-95e4-9642221c11c2)
 
 ###### Just answer Y when the terminal pops up and it goes away (only for the next 59 minutes though)
-###### originally supposed to run on the gnome terminal using bash (no windows support :( )
+###### originally supposed to run in the gnome terminal using bash (no windows support :( )
 <br>
 
 ### • made by and for a procrastinator, you're welcome
