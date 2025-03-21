@@ -5,7 +5,6 @@
 ###### Just answer Y when the terminal pops up and it goes away (only for the next 59 minutes though)
 ###### originally supposed to run on the gnome terminal using bash (no windows support :( )
 <br>
-<br>
 
 ### • made by and for a procrastinator, you're welcome
 
